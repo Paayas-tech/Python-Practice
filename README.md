@@ -1,0 +1,5 @@
+- **01: Introduction to Functions and Built-in Functions**
+  - Defining custom functions and scope
+  - `return` statements vs output display
+  - Core built-in functions & object inspection with `dir()`
+  - Console inputs with `input()`
