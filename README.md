@@ -18,3 +18,8 @@
   - Dynamic typing and memory references with `id()`
   - Core types overview (`str`, `int`, `float`, `bool`, `list`, `dict`)
   - Type validation using `isinstance()`
+
+  - **05: Strings and String Formatting**
+  - String immutability, zero-indexing, and slicing
+  - Essential cleaning methods (`strip`, `lower`, `replace`, `split`)
+  - String concatenation and string interpolation using f-strings
