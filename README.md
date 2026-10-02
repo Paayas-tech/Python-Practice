@@ -33,3 +33,8 @@
   - List creation, zero-indexing, slicing, and in-place mutation
   - Built-in methods (`append`, `insert`, `extend`, `pop`, `remove`, `sort`)
   - Memory references vs shallow copying (`.copy()`, `[:]`, `list()`)
+
+  - **08: Dictionaries and Key-Value Operations**
+  - Dictionary syntax, key mutability rules, and CRUD operations
+  - Safe key lookup using `.get()`
+  - View objects (`keys`, `values`, `items`) and batch updates with `.update()`
