@@ -28,3 +28,8 @@
   - Integers, floats, and complex numbers
   - Boolean logic, comparison operators, and Truthy/Falsy casting
   - Magic (dunder) methods behind operators (`__add__`, `__len__`, `__eq__`)
+
+  - **07: Lists and List Operations**
+  - List creation, zero-indexing, slicing, and in-place mutation
+  - Built-in methods (`append`, `insert`, `extend`, `pop`, `remove`, `sort`)
+  - Memory references vs shallow copying (`.copy()`, `[:]`, `list()`)
