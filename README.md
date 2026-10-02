@@ -38,3 +38,13 @@
   - Dictionary syntax, key mutability rules, and CRUD operations
   - Safe key lookup using `.get()`
   - View objects (`keys`, `values`, `items`) and batch updates with `.update()`
+
+  - **09: Tuples and Sets**
+  - Tuple immutability, zero-indexing, and variable unpacking
+  - Set mechanics, duplicate removal, and fast membership lookups
+  - Set theory operations (Union, Intersection, Difference, Symmetric Difference)
+
+  - **09: Tuples, Sets and Ranges**
+  - Tuple immutability, zero-indexing, and variable unpacking
+  - Set mechanics, duplicate removal, and set theory operations
+  - Range generation syntax (`start`, `stop`, `step`) and lazy evaluation
