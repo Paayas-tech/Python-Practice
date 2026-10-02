@@ -23,3 +23,8 @@
   - String immutability, zero-indexing, and slicing
   - Essential cleaning methods (`strip`, `lower`, `replace`, `split`)
   - String concatenation and string interpolation using f-strings
+
+  - **06: Numeric Types, Booleans and Magic Methods**
+  - Integers, floats, and complex numbers
+  - Boolean logic, comparison operators, and Truthy/Falsy casting
+  - Magic (dunder) methods behind operators (`__add__`, `__len__`, `__eq__`)
