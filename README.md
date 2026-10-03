@@ -60,3 +60,8 @@
   - Parameter definitions vs argument passing
   - Mutable vs immutable argument behavior and side effects
   - Mandatory positional arguments vs default/keyword arguments
+
+  - **12: Args and Kwargs in Functions**
+  - Gathering positional arguments into tuples using `*args`
+  - Gathering keyword arguments into dictionaries using `**kwargs`
+  - Order rules when combining standard parameters, `*args`, and `**kwargs`
