@@ -54,3 +54,9 @@
   - Fast dictionary creation using `dict(zip(keys, values))`
   - Mutable vs immutable memory behavior
   - Shallow copies (`copy()`) vs deep copies (`copy.deepcopy()`)
+
+  - **11: Functions and Argument Mechanics**
+  - Minimal function definitions and the `pass` statement
+  - Parameter definitions vs argument passing
+  - Mutable vs immutable argument behavior and side effects
+  - Mandatory positional arguments vs default/keyword arguments
