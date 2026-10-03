@@ -48,3 +48,9 @@
   - Tuple immutability, zero-indexing, and variable unpacking
   - Set mechanics, duplicate removal, and set theory operations
   - Range generation syntax (`start`, `stop`, `step`) and lazy evaluation
+
+  - **10: Sequences and Object Mutation**
+  - Sequence operations with `min()`, `max()`, `sum()`, and `zip()`
+  - Fast dictionary creation using `dict(zip(keys, values))`
+  - Mutable vs immutable memory behavior
+  - Shallow copies (`copy()`) vs deep copies (`copy.deepcopy()`)
