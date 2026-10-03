@@ -65,3 +65,13 @@
   - Gathering positional arguments into tuples using `*args`
   - Gathering keyword arguments into dictionaries using `**kwargs`
   - Order rules when combining standard parameters, `*args`, and `**kwargs`
+
+  - **13: Default Function Parameters and Docstrings**
+  - Defining fallback parameter values and ordering rules
+  - Preventing the mutable default argument pitfall with `None` sentinels
+  - Documenting functions using docstrings, `__doc__`, and `help()`
+
+  - **13: Default Parameters, Docstrings & Callback Functions**
+  - Defining fallback parameter values and ordering rules
+  - Documenting functions using docstrings, `__doc__`, and `help()`
+  - Passing function references and executing callback functions
