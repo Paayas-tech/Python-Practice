@@ -81,3 +81,8 @@
   - Unary vs binary operators
   - Truthy and Falsy value evaluations
   - Short-circuiting with `and` / `or`, comparison chains, and `del`
+
+  - **16: Unpacking Operators for Sequences and Dictionaries**
+  - Variable assignment unpacking and rest gathering with `*`
+  - Unpacking sequences into positional arguments (`*args`)
+  - Unpacking dictionaries into keyword arguments and dictionary merging with `**`
