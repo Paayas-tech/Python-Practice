@@ -75,3 +75,9 @@
   - Defining fallback parameter values and ordering rules
   - Documenting functions using docstrings, `__doc__`, and `help()`
   - Passing function references and executing callback functions
+
+  - **14: Scopes, Operators & Boolean Evaluation**
+  - Variable scopes (LEGB) and the `global` keyword
+  - Unary vs binary operators
+  - Truthy and Falsy value evaluations
+  - Short-circuiting with `and` / `or`, comparison chains, and `del`
