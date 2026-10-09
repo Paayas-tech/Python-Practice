@@ -3,3 +3,8 @@ __pycache__/
 .env
 venv/
 .vscode/
+
+- **15: Lambda Functions and Exception Handling**
+  - Anonymous lambda expressions, custom sorting keys, and list filtering
+  - Exception flow control using `try`, `except`, `else`, and `finally`
+  - Explicit error raising (`raise ValueError`) and parameter type annotations
