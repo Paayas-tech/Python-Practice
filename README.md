@@ -85,4 +85,7 @@
   - **16: Unpacking Operators for Sequences and Dictionaries**
   - Variable assignment unpacking and rest gathering with `*`
   - Unpacking sequences into positional arguments (`*args`)
-  - Unpacking dictionaries into keyword arguments and dictionary merging with `**`
+  - Unpacking dictionaries into keyword arguments and dictionary merging with `**`- **17: Conditional Statements & Ternary Operator**
+  - Branching logic using `if`, `elif`, and `else`
+  - Condition ordering and return-early guard clauses
+  - Inline decision-making with the ternary operator (`x if condition else y`)
