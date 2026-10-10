@@ -94,3 +94,9 @@
   - Indefinite iteration using `while`, with `break` and `continue` control flow
   - List, set, and dictionary comprehensions with inline conditional filtering
   - Generator expressions and matrix flattening
+
+- **19: Generators and Decorators**
+  - Generator expressions and generator functions with `yield`
+  - Lazy evaluation and memory optimization using `next()`
+  - Function decorators, wrapper pattern with `*args`/`**kwargs`, and `@wraps`
+  - Common decorator patterns: logging and argument validation
