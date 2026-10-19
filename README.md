@@ -111,3 +111,9 @@
   - Instance attributes vs shared class attributes
   - Method types: instance methods (`self`), class methods (`@classmethod`), and static methods (`@staticmethod`)
   - Magic (dunder) methods: `__str__`, `__repr__`, `__len__`, `__eq__`, and operator overloading
+
+  - **21: OOP Inheritance and Practical System Design**
+  - Extending classes via single inheritance and method overriding
+  - Delegating parent constructor initialization with `super().__init__()`
+  - Multi-class entity modeling (`User`, `Post`, `Forum`) and relationship lookups
+  - Entity filtering by attribute matching and type annotations (`List`, `Optional`)
