@@ -123,3 +123,9 @@
   - Modular organization, selective imports, and subfolder module imports
   - Python standard library utilities (`math`, `random`, `datetime`)
   - Entry-point architecture using the `if __name__ == "__main__":` pattern
+
+  - **23: Files I/O and Standard Library Utilities**
+  - Path navigation and context-managed file I/O with `pathlib` and `with open()`
+  - Reading and writing CSV datasets with `csv` and archive compression with `zipfile`
+  - Date parsing (`strptime`), formatting (`strftime`), and offsets with `datetime.timedelta`
+  - Pseudo-random modeling with `random` vs cryptographic token and password security with `secrets`
