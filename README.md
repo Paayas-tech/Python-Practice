@@ -100,3 +100,14 @@
   - Lazy evaluation and memory optimization using `next()`
   - Function decorators, wrapper pattern with `*args`/`**kwargs`, and `@wraps`
   - Common decorator patterns: logging and argument validation
+
+- **20: Object-Oriented Programming: Classes and Methods**
+  - Defining classes, instance creation, and the `__init__` constructor
+  - Instance attributes vs shared class attributes
+  - Method types: instance methods (`self`), class methods (`@classmethod`), and static methods (`@staticmethod`)
+
+  - **20: Object-Oriented Programming: Classes, Methods & Magic Methods**
+  - Defining classes, instance creation, and the `__init__` constructor
+  - Instance attributes vs shared class attributes
+  - Method types: instance methods (`self`), class methods (`@classmethod`), and static methods (`@staticmethod`)
+  - Magic (dunder) methods: `__str__`, `__repr__`, `__len__`, `__eq__`, and operator overloading
