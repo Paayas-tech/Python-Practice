@@ -117,3 +117,9 @@
   - Delegating parent constructor initialization with `super().__init__()`
   - Multi-class entity modeling (`User`, `Post`, `Forum`) and relationship lookups
   - Entity filtering by attribute matching and type annotations (`List`, `Optional`)
+
+  - **22: OOP Principles, Modules & Script Execution**
+  - The four pillars of OOP: Encapsulation, Inheritance, Polymorphism, and Abstraction (`abc.ABC`)
+  - Modular organization, selective imports, and subfolder module imports
+  - Python standard library utilities (`math`, `random`, `datetime`)
+  - Entry-point architecture using the `if __name__ == "__main__":` pattern
